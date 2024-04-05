@@ -75,4 +75,5 @@ int main()
 {
 	input();
 	LiniearSearch();
+	display();
 }
