@@ -34,4 +34,5 @@ void LiniearSearch()
 	int ctr; // Number of comparisons
 	int item;
 
+
 }
